@@ -1,1 +1,1 @@
-# DiarayApplication
+# DiaryApplication
